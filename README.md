@@ -1,2 +1,2 @@
-# mkdocs_simlex
+# mkdocs_simplex
 MkDown Simple
